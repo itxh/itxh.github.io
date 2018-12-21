@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="59px" viewBox="0 0 65 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="53" height="42" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="53" height="42" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M19.3910966,44.1660162 L24.3910966,44.1660162 L25.0114982,58.4352532 C25.0593842,59.5366299 24.2043036,60.4294721 23.0933219,60.4294721 L22.1030849,60.4294721 C20.9958194,60.4294721 20.0591791,59.5319122 20.0114982,58.4352532 L19.3910966,44.1660162 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5.62231846" height="16.263456" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <path d="M10.7238169,37.2621673 L15.7238169,37.2621673 L15.4034761,48.2469561 C15.3712565,49.3517976 14.4512375,50.2474487 13.3402558,50.2474487 L12.3500188,50.2474487 C11.2427533,50.2474487 10.3711655,49.3549177 10.4034761,48.2469561 L10.7238169,37.2621673 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5.32121093" height="12.9852814" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="首页+G2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-copy-3" transform="translate(-612.000000, -788.000000)">
+            <g id="Group-3" transform="translate(612.000000, 788.000000)">
+                <g id="Group-12" transform="translate(0.000000, 1.000000)">
+                    <use id="Rectangle-5" stroke="#404040" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <path d="M5.5,9.5 L47.5,9.5" id="Line" stroke="#D9D9D9" stroke-linecap="square"></path>
+                    <path d="M5.5,21.5 L47.5,21.5" id="Line" stroke="#D9D9D9" stroke-linecap="square"></path>
+                    <path d="M5.5,33.5 L47.5,33.5" id="Line" stroke="#D9D9D9" stroke-linecap="square"></path>
+                    <polygon id="Path-3" fill="#7463FF" opacity="0.233733675" points="5 29.3958333 22 19 30.6052632 27.3541667 48 10 48 34 5 34"></polygon>
+                    <polyline id="Path-7" stroke="#404040" stroke-linecap="round" points="5 29 22 19 31 27 48 9"></polyline>
+                </g>
+                <g id="Group-8" transform="translate(35.000000, 0.000000)">
+                    <circle id="Oval-4" fill="#C4BDFF" cx="22.5" cy="37.5" r="1.5"></circle>
+                    <polygon id="Star" fill="#7463FF" opacity="0.300839552" transform="translate(22.673097, 6.673097) rotate(45.000000) translate(-22.673097, -6.673097) " points="22.673097 10.0096456 17.9545049 11.3916892 19.3365485 6.67309704 17.9545049 1.95450487 22.673097 3.33654852 27.3916892 1.95450487 26.0096456 6.67309704 27.3916892 11.3916892"></polygon>
+                    <circle id="Oval-4" fill="#C4BDFF" cx="3.5" cy="53.5" r="3.5"></circle>
+                    <circle id="Oval-4" fill="#C4BDFF" cx="27" cy="21" r="2"></circle>
+                    <use id="Rectangle-9" stroke="#404040" mask="url(#mask-4)" stroke-width="2" fill="#E7E7E7" transform="translate(22.202256, 52.297744) rotate(-45.000000) translate(-22.202256, -52.297744) " xlink:href="#path-3"></use>
+                    <use id="Rectangle-9" stroke="#404040" mask="url(#mask-6)" stroke-width="2" fill="#C4BDFF" transform="translate(13.063211, 43.754808) scale(1, -1) rotate(45.000000) translate(-13.063211, -43.754808) " xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
